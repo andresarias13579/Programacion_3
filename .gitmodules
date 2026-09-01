@@ -1,0 +1,3 @@
+[submodule "TA/GamePaz"]
+	path = TA/GamePaz
+	url = https://github.com/andresarias13579/GamePaz.git
