@@ -1,0 +1,10 @@
+SET PATH=C:\Program Files\dotnet,%PATH%
+
+//para crear
+dotnet new console
+
+//para compilar
+dotnet build
+
+//para ejecutar
+dotnet run

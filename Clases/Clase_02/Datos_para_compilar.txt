@@ -1,0 +1,4 @@
+Datos:
+
+javac Principal .javac		//para compilar
+java Principal				//para correr
