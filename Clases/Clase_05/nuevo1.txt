@@ -1,0 +1,14 @@
+para consola:
+dotnet new console -n MiProyecto
+dotnet build 				//compila
+dotnet run					//corre
+
+para libreria (dll):
+dotnet new classlib -n MiLibreria
+dotnet add reference ../MiLibreria2/MiLibreria2.csproj	//para agregar la referencia, desde el proyecto principal, sino no compila
+
+	  <ItemGroup>
+		<Reference Include="MiLibreria2">
+			<HintPath>libs/MiLibreria2.dll</HintPath>
+		</Reference>
+	  </ItemGroup>

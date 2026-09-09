@@ -1,0 +1,15 @@
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\MiProyecto.AssemblyInfo.cs
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\MiProyecto.sourcelink.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\bin\Debug\net10.0\MiProyecto.exe
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\bin\Debug\net10.0\MiProyecto.deps.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\bin\Debug\net10.0\MiProyecto.runtimeconfig.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\bin\Debug\net10.0\MiProyecto.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\bin\Debug\net10.0\MiProyecto.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\MiProyecto.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\refint\MiProyecto.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\MiProyecto.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\MiProyecto.genruntimeconfig.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiProyecto\obj\Debug\net10.0\ref\MiProyecto.dll

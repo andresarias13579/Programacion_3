@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "MiProyecto2/1.0.0": {
+        "dependencies": {
+          "MiLibreria2": "1.0.0.0"
+        },
+        "runtime": {
+          "MiProyecto2.dll": {}
+        }
+      },
+      "MiLibreria2/1.0.0.0": {
+        "runtime": {
+          "MiLibreria2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiProyecto2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MiLibreria2/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

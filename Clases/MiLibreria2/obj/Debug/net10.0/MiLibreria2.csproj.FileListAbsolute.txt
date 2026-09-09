@@ -1,0 +1,12 @@
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\bin\Debug\net10.0\MiLibreria2.deps.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\bin\Debug\net10.0\MiLibreria2.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\bin\Debug\net10.0\MiLibreria2.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\obj\Debug\net10.0\MiLibreria2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\obj\Debug\net10.0\MiLibreria2.AssemblyInfoInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\obj\Debug\net10.0\MiLibreria2.AssemblyInfo.cs
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\obj\Debug\net10.0\MiLibreria2.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\obj\Debug\net10.0\MiLibreria2.sourcelink.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\obj\Debug\net10.0\MiLibreria2.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\obj\Debug\net10.0\refint\MiLibreria2.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\obj\Debug\net10.0\MiLibreria2.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\Clase_05\MiLibreria2\obj\Debug\net10.0\ref\MiLibreria2.dll

@@ -1,0 +1,8 @@
+DROP TABLE IF EXISTS area;
+CREATE TABLE area(
+	id_area INT PRIMARY KEY AUTO_INCREMENT,
+    nombre VARCHAR(45),
+    activa TINYINT
+)ENGINE=InnoDB;
+INSERT INTO area(nombre,activa) VALUES('RECURSOS HUMANOS',1);
+INSERT INTO area(nombre,activa) VALUES('FINANZAS',1);

@@ -1,0 +1,1 @@
+dotnet C="LO QYUE QUIERO PONER";%PATH%
