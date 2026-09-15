@@ -1,3 +1,6 @@
 [submodule "TA/GamePaz"]
 	path = TA/GamePaz
 	url = https://github.com/andresarias13579/GamePaz.git
+[submodule "Clases/1INF30-2026-2"]
+	path = Clases/1INF30-2026-2
+	url = https://github.com/fpaz1987/1INF30-2026-2.git
