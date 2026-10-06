@@ -1,0 +1,16 @@
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\SpotipucpSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\SpotipucpSolution.AssemblyInfoInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\SpotipucpSolution.AssemblyInfo.cs
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\SpotipucpSolution.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\SpotipucpSolution.sourcelink.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\bin\Debug\net10.0\SpotipucpSolution.exe
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\bin\Debug\net10.0\SpotipucpSolution.deps.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\bin\Debug\net10.0\SpotipucpSolution.runtimeconfig.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\bin\Debug\net10.0\SpotipucpSolution.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\bin\Debug\net10.0\SpotipucpSolution.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\SpotipucpSolution.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\refint\SpotipucpSolution.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\SpotipucpSolution.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\SpotipucpSolution.genruntimeconfig.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\ref\SpotipucpSolution.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpSolution\obj\Debug\net10.0\Spotipuc.905AE86A.Up2Date

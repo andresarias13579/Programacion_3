@@ -1,0 +1,14 @@
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\bin\Debug\net10.0\SoftprogDBManager.deps.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\bin\Debug\net10.0\SoftprogDBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\bin\Debug\net10.0\SoftprogDBManager.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\SoftprogDBManager.csproj.AssemblyReference.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\SoftprogDBManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\SoftprogDBManager.AssemblyInfoInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\SoftprogDBManager.AssemblyInfo.cs
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\SoftprogDBManager.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\SoftprogDBManager.sourcelink.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\SoftprogDBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\refint\SoftprogDBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\SoftprogDBManager.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\ref\SoftprogDBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDBManager\obj\Debug\net10.0\Softprog.34F03A27.Up2Date

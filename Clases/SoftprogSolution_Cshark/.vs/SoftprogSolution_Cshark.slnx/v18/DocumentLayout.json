@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93D072FE-8C11-0204-97B8-0643EE34E03E}|Softprog\\Softprog.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprog\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93D072FE-8C11-0204-97B8-0643EE34E03E}|Softprog\\Softprog.csproj|solutionrelative:softprog\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0381E8D-CD55-4D1F-B2C4-24EEB394B01A}|SoftprogDAO\\SoftprogDAO.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogdao\\rrhh\\impl\\areaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0381E8D-CD55-4D1F-B2C4-24EEB394B01A}|SoftprogDAO\\SoftprogDAO.csproj|solutionrelative:softprogdao\\rrhh\\impl\\areaimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E48528-16F7-410D-8146-0DBC24C595B0}|SoftprogBusinessLogic\\SoftprogBusinessLogic.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogbusinesslogic\\rrhh\\bo\\areaboimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E48528-16F7-410D-8146-0DBC24C595B0}|SoftprogBusinessLogic\\SoftprogBusinessLogic.csproj|solutionrelative:softprogbusinesslogic\\rrhh\\bo\\areaboimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E48528-16F7-410D-8146-0DBC24C595B0}|SoftprogBusinessLogic\\SoftprogBusinessLogic.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogbusinesslogic\\rrhh\\boi\\iareabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E48528-16F7-410D-8146-0DBC24C595B0}|SoftprogBusinessLogic\\SoftprogBusinessLogic.csproj|solutionrelative:softprogbusinesslogic\\rrhh\\boi\\iareabo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E48528-16F7-410D-8146-0DBC24C595B0}|SoftprogBusinessLogic\\SoftprogBusinessLogic.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogbusinesslogic\\bo\\ibasebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E48528-16F7-410D-8146-0DBC24C595B0}|SoftprogBusinessLogic\\SoftprogBusinessLogic.csproj|solutionrelative:softprogbusinesslogic\\bo\\ibasebo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0381E8D-CD55-4D1F-B2C4-24EEB394B01A}|SoftprogDAO\\SoftprogDAO.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogdao\\dao\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0381E8D-CD55-4D1F-B2C4-24EEB394B01A}|SoftprogDAO\\SoftprogDAO.csproj|solutionrelative:softprogdao\\dao\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64E90C9-D93A-476B-9843-A3A6E996B015}|SoftprogDBManager\\SoftprogDBManager.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogdbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64E90C9-D93A-476B-9843-A3A6E996B015}|SoftprogDBManager\\SoftprogDBManager.csproj|solutionrelative:softprogdbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D072FE-8C11-0204-97B8-0643EE34E03E}|Softprog\\Softprog.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprog\\softprog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93D072FE-8C11-0204-97B8-0643EE34E03E}|Softprog\\Softprog.csproj|solutionrelative:softprog\\softprog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0381E8D-CD55-4D1F-B2C4-24EEB394B01A}|SoftprogDAO\\SoftprogDAO.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogdao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0381E8D-CD55-4D1F-B2C4-24EEB394B01A}|SoftprogDAO\\SoftprogDAO.csproj|solutionrelative:softprogdao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0381E8D-CD55-4D1F-B2C4-24EEB394B01A}|SoftprogDAO\\SoftprogDAO.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogdao\\rrhh\\dao\\areadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0381E8D-CD55-4D1F-B2C4-24EEB394B01A}|SoftprogDAO\\SoftprogDAO.csproj|solutionrelative:softprogdao\\rrhh\\dao\\areadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E63857-49DE-615D-7C5F-0C48BDF40C0C}|SoftprogDomain\\SoftprogDomain.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogdomain\\rrhh\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E63857-49DE-615D-7C5F-0C48BDF40C0C}|SoftprogDomain\\SoftprogDomain.csproj|solutionrelative:softprogdomain\\rrhh\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E63857-49DE-615D-7C5F-0C48BDF40C0C}|SoftprogDomain\\SoftprogDomain.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\clases\\softprogsolution_cshark\\softprogdomain\\rrhh\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E63857-49DE-615D-7C5F-0C48BDF40C0C}|SoftprogDomain\\SoftprogDomain.csproj|solutionrelative:softprogdomain\\rrhh\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AreaBOImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogBusinessLogic\\RRHH\\BO\\AreaBOImpl.cs",
+              "RelativeDocumentMoniker": "SoftprogBusinessLogic\\RRHH\\BO\\AreaBOImpl.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogBusinessLogic\\RRHH\\BO\\AreaBOImpl.cs",
+              "RelativeToolTip": "SoftprogBusinessLogic\\RRHH\\BO\\AreaBOImpl.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:33:23.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAreaBO.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogBusinessLogic\\RRHH\\BOI\\IAreaBO.cs",
+              "RelativeDocumentMoniker": "SoftprogBusinessLogic\\RRHH\\BOI\\IAreaBO.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogBusinessLogic\\RRHH\\BOI\\IAreaBO.cs",
+              "RelativeToolTip": "SoftprogBusinessLogic\\RRHH\\BOI\\IAreaBO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:32:26.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AreaImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDAO\\RRHH\\Impl\\AreaImpl.cs",
+              "RelativeDocumentMoniker": "SoftprogDAO\\RRHH\\Impl\\AreaImpl.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDAO\\RRHH\\Impl\\AreaImpl.cs",
+              "RelativeToolTip": "SoftprogDAO\\RRHH\\Impl\\AreaImpl.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwDgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:52:54.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDAO\\DAO\\IDAO.cs",
+              "RelativeDocumentMoniker": "SoftprogDAO\\DAO\\IDAO.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDAO\\DAO\\IDAO.cs",
+              "RelativeToolTip": "SoftprogDAO\\DAO\\IDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:46:35.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDAO\\Class1.cs",
+              "RelativeDocumentMoniker": "SoftprogDAO\\Class1.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDAO\\Class1.cs",
+              "RelativeToolTip": "SoftprogDAO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:45:13.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Softprog.csproj",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\Softprog\\Softprog.csproj",
+              "RelativeDocumentMoniker": "Softprog\\Softprog.csproj",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\Softprog\\Softprog.csproj",
+              "RelativeToolTip": "Softprog\\Softprog.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T21:26:22.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBManager.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDBManager\\DBManager.cs",
+              "RelativeDocumentMoniker": "SoftprogDBManager\\DBManager.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDBManager\\DBManager.cs",
+              "RelativeToolTip": "SoftprogDBManager\\DBManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:32:40.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDomain\\RRHH\\Persona.cs",
+              "RelativeDocumentMoniker": "SoftprogDomain\\RRHH\\Persona.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDomain\\RRHH\\Persona.cs",
+              "RelativeToolTip": "SoftprogDomain\\RRHH\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T20:35:37.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\Softprog\\Principal.cs",
+              "RelativeDocumentMoniker": "Softprog\\Principal.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\Softprog\\Principal.cs",
+              "RelativeToolTip": "Softprog\\Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T20:19:05.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AreaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDAO\\RRHH\\DAO\\AreaDAO.cs",
+              "RelativeDocumentMoniker": "SoftprogDAO\\RRHH\\DAO\\AreaDAO.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDAO\\RRHH\\DAO\\AreaDAO.cs",
+              "RelativeToolTip": "SoftprogDAO\\RRHH\\DAO\\AreaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T21:49:30.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBaseBO.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogBusinessLogic\\BO\\IBaseBO.cs",
+              "RelativeDocumentMoniker": "SoftprogBusinessLogic\\BO\\IBaseBO.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogBusinessLogic\\BO\\IBaseBO.cs",
+              "RelativeToolTip": "SoftprogBusinessLogic\\BO\\IBaseBO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T22:29:47.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDomain\\RRHH\\Area.cs",
+              "RelativeDocumentMoniker": "SoftprogDomain\\RRHH\\Area.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Clases\\SoftprogSolution_Cshark\\SoftprogDomain\\RRHH\\Area.cs",
+              "RelativeToolTip": "SoftprogDomain\\RRHH\\Area.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T20:28:14.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+identificador de instancias: bd-andres-labs
+user: admin
+password: 20234902Aa
+port: 3306
+nombre inicial: pucpcast
+hostname: bd-andres-labs.cc5sy5wyeisw.us-east-1.rds.amazonaws.com

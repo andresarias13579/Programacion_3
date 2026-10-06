@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="26.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SoftprogBusinessLogic\SoftprogBusinessLogic.csproj" />
+    <ProjectReference Include="..\SoftprogDAO\SoftprogDAO.csproj" />
+    <ProjectReference Include="..\SoftprogDBManager\SoftprogDBManager.csproj" />
+    <ProjectReference Include="..\SoftprogDomain\SoftprogDomain.csproj" />
+  </ItemGroup>
+
+</Project>

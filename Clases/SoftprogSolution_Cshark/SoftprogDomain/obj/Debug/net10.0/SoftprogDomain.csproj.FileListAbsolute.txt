@@ -1,0 +1,13 @@
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\bin\Debug\net10.0\SoftprogDomain.deps.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\bin\Debug\net10.0\SoftprogDomain.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\bin\Debug\net10.0\SoftprogDomain.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\SoftprogDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\SoftprogDomain.AssemblyInfoInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\SoftprogDomain.AssemblyInfo.cs
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\SoftprogDomain.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\SoftprogDomain.sourcelink.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\SoftprogDomain.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\refint\SoftprogDomain.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\SoftprogDomain.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\ref\SoftprogDomain.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Clases\SoftprogSolution_Cshark\SoftprogDomain\obj\Debug\net10.0\Softprog.2CADAF6C.Up2Date

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SpotipucpDBManager/SpotipucpDBManager.csproj" Id="6f81c752-4744-400f-ad1e-091eb060afc7" />
+  <Project Path="SpotipucpDomain/SpotipucpDomain.csproj" Id="fec96e09-f428-435a-b7ed-289845458e89" />
+  <Project Path="SpotipucpSolution/SpotipucpSolution.csproj" Id="b2896a3d-3aa3-4981-8738-079f7e41b168" />
+</Solution>

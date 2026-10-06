@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Softprog/Softprog.csproj" />
+  <Project Path="SoftprogBusinessLogic/SoftprogBusinessLogic.csproj" Id="f0e48528-16f7-410d-8146-0dbc24c595b0" />
+  <Project Path="SoftprogDAO/SoftprogDAO.csproj" Id="b0381e8d-cd55-4d1f-b2c4-24eeb394b01a" />
+  <Project Path="SoftprogDBManager/SoftprogDBManager.csproj" Id="e64e90c9-d93a-476b-9843-a3a6e996b015" />
+  <Project Path="SoftprogDomain/SoftprogDomain.csproj" />
+</Solution>

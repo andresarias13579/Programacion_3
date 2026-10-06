@@ -1,0 +1,6 @@
+hostname: softprog-p3.cc5sy5wyeisw.us-east-1.rds.amazonaws.com
+database: softprogP3
+port: 3306
+user: admin
+password: 20234902Aa
+

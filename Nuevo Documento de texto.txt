@@ -1,3 +1,0 @@
-database-mysql-progra3.cc5sy5wyeisw.us-east-1.rds.amazonaws.com
-prog3
-
