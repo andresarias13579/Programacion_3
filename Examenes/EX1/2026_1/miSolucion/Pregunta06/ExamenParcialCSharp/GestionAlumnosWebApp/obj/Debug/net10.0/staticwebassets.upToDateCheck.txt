@@ -1,0 +1,8 @@
+wwwroot\app.css
+Components\Layout\ReconnectModal.razor.js
+C:\Users\Andres\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\build\..\_framework\blazor.web.js
+C:\Users\Andres\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\build\..\_framework\blazor.server.js
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\GestionAlumnosWebApp\wwwroot\app.css
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\GestionAlumnosWebApp\Components\Layout\ReconnectModal.razor.js
+C:\Users\Andres\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\_framework\blazor.web.js
+C:\Users\Andres\.nuget\packages\microsoft.aspnetcore.app.internal.assets\10.0.12\_framework\blazor.server.js

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E1BAEAF-DF29-4EB2-A60C-54828C45F465}|DBManager\\DBManager.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\dbmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E1BAEAF-DF29-4EB2-A60C-54828C45F465}|DBManager\\DBManager.csproj|solutionrelative:dbmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1BAEAF-DF29-4EB2-A60C-54828C45F465}|DBManager\\DBManager.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\dbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1BAEAF-DF29-4EB2-A60C-54828C45F465}|DBManager\\DBManager.csproj|solutionrelative:dbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955B36A2-2F1C-4E10-A1EE-674DD9901C2F}|Modelo\\Modelo.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\modelo\\clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955B36A2-2F1C-4E10-A1EE-674DD9901C2F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\gestionalumnoswebapp\\components\\pages\\alumnoregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|solutionrelative:gestionalumnoswebapp\\components\\pages\\alumnoregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -18,11 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\DBManager\\appsettings.json",
+              "RelativeDocumentMoniker": "DBManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\DBManager\\appsettings.json",
+              "RelativeToolTip": "DBManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-16T05:27:23.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DBmanager.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\DBManager\\DBmanager.cs",
+              "RelativeDocumentMoniker": "DBManager\\DBmanager.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\DBManager\\DBmanager.cs",
+              "RelativeToolTip": "DBManager\\DBmanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T05:22:27.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\Modelo\\Clases\\Alumno.cs",
+              "RelativeDocumentMoniker": "Modelo\\Clases\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\Modelo\\Clases\\Alumno.cs",
+              "RelativeToolTip": "Modelo\\Clases\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T05:18:13.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
@@ -34,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AlumnoRegistro.razor",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
               "RelativeDocumentMoniker": "GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",

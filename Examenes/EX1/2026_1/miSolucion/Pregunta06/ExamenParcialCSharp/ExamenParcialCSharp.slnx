@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="DBManager/DBManager.csproj" Id="5e1baeaf-df29-4eb2-a60c-54828c45f465" />
   <Project Path="GestionAlumnosWebApp/GestionAlumnosWebApp.csproj" />
+  <Project Path="Modelo/Modelo.csproj" Id="955b36a2-2f1c-4e10-a1ee-674dd9901c2f" />
 </Solution>
