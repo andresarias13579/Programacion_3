@@ -27,7 +27,10 @@
                 <input type="text"
                        id="filtroAlumno"
                        class="form-control"
-                       placeholder="Buscar por nombre o apellido..." />
+                       placeholder="Buscar por nombre o apellido..."
+                       @bind="texto"
+                       @bind:event="oninput"
+                       @bind:after="Buscar" />
             </div>
         </div>
         <div class="col-auto">
@@ -55,41 +58,61 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <tr>
-                        <td>1</td>
-                        <td>20210043</td>
-                        <td>María</td>
-                        <td>González</td>
-                        <td>maria.gonzalez@pucp.pe</td>
-                        <td class="text-center"><span class="badge bg-success">Sí</span></td>
-                        <td class="text-center">
-                            <button class="btn btn-sm btn-outline-warning">Editar</button>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>20230018</td>
-                        <td>Carlos</td>
-                        <td>Pérez</td>
-                        <td>carlos.perez@pucp.pe</td>
-                        <td class="text-center"><span class="badge bg-success">Sí</span></td>
-                        <td class="text-center">
-                            <button class="btn btn-sm btn-outline-warning">Editar</button>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>3</td>
-                        <td>20200071</td>
-                        <td>Lucía</td>
-                        <td>Ramírez</td>
-                        <td>lucia.ramirez@pucp.pe</td>
-                        <td class="text-center"><span class="badge bg-danger">No</span></td>
-                        <td class="text-center">
-                            <button class="btn btn-sm btn-outline-warning">Editar</button>
-                        </td>
-                    </tr>
+                    @if (alumnos.Count == 0)
+                    {
+                        <tr>
+                            <td colspan="7" class="text-center text-muted py-3">No se encontraron alumnos.</td>
+                        </tr>
+                    }
+                    else
+                    {
+                        @foreach (var alumno in alumnos)
+                        {
+                            <tr>
+                                <td>@alumno.Id</td>
+                                <td>@alumno.Codigo</td>
+                                <td>@alumno.Nombre</td>
+                                <td>@alumno.Apellidos</td>
+                                <td>@alumno.Correo</td>
+                                <td class="text-center">
+                                    @if (alumno.Estado == 'A')
+                                    {
+                                        <span class="badge bg-success">Sí</span>
+                                    }
+                                    else
+                                    {
+                                        <span class="badge bg-danger">No</span>
+                                    }
+                                </td>
+                                <td class="text-center">
+                                    <button class="btn btn-sm btn-outline-warning">Editar</button>
+                                </td>
+                            </tr>
+                        }
+                    }
                 </tbody>
             </table>
         </div>
     </div>
 </div>
+
+@code {
+    private List<Alumno> alumnos = new();
+    private string texto = "";
+
+    // Ciclo de vida: se ejecuta una vez, al abrir la página
+    protected override void OnInitialized()
+    {
+        Buscar();
+    }
+
+    private void Buscar()
+    {
+        alumnos = alumnoBO.Listar(texto);
+    }
+
+    private void IrARegistro()
+    {
+        Nav.NavigateTo("/alumno/registro");
+    }
+}

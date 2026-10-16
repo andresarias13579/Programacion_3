@@ -66,8 +66,7 @@
               "RelativeToolTip": "GestionAlumnosWebApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T06:02:49.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T06:02:49.805Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "GestionAlumnosWebApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-16T06:01:06.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T06:01:06.229Z"
             },
             {
               "$type": "Document",
@@ -92,8 +90,7 @@
               "RelativeToolTip": "BO\\Clases\\BO\\AlumnoBOImpl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T05:48:56.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T05:48:56.538Z"
             },
             {
               "$type": "Document",
@@ -105,8 +102,7 @@
               "RelativeToolTip": "BO\\Clases\\BOI\\IAlumnoBO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T05:48:15.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T05:48:15.224Z"
             },
             {
               "$type": "Document",
@@ -118,8 +114,7 @@
               "RelativeToolTip": "DAO\\Clases\\Impl\\AlumnoDAOImpl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T05:41:38.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T05:41:38.236Z"
             },
             {
               "$type": "Document",
@@ -131,8 +126,7 @@
               "RelativeToolTip": "DBManager\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-16T05:27:23.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T05:27:23.168Z"
             },
             {
               "$type": "Document",
@@ -144,8 +138,7 @@
               "RelativeToolTip": "DBManager\\DBmanager.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T05:22:27.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T05:22:27.323Z"
             },
             {
               "$type": "Document",
@@ -155,7 +148,7 @@
               "RelativeDocumentMoniker": "GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-16T19:34:58.271Z",
               "EditorCaption": ""
@@ -170,8 +163,7 @@
               "RelativeToolTip": "DAO\\Clases\\DAO\\AlumnoDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T05:40:12.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T05:40:12.19Z"
             },
             {
               "$type": "Document",

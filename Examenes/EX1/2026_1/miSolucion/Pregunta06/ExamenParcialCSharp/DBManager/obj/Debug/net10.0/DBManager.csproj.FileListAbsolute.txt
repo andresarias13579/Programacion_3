@@ -1,0 +1,14 @@
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\bin\Debug\net10.0\DBManager.deps.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\bin\Debug\net10.0\DBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\bin\Debug\net10.0\DBManager.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\DBManager.csproj.AssemblyReference.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\DBManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\DBManager.AssemblyInfoInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\DBManager.AssemblyInfo.cs
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\DBManager.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\DBManager.sourcelink.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\DBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\refint\DBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\DBManager.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\ref\DBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Examenes\EX1\2026_1\miSolucion\Pregunta06\ExamenParcialCSharp\DBManager\obj\Debug\net10.0\DBManager.csproj.Up2Date
