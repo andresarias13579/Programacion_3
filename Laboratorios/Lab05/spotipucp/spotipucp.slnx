@@ -1,5 +1,8 @@
 <Solution>
+  <Project Path="SpotipucpBO/SpotipucpBO.csproj" Id="f17167ec-9dcc-4ed7-abd6-8bbbd9b6415b" />
+  <Project Path="SpotipucpDAO/SpotipucpDAO.csproj" Id="cddd1576-3d12-49af-8b85-3f8421787f4e" />
   <Project Path="SpotipucpDBManager/SpotipucpDBManager.csproj" Id="6f81c752-4744-400f-ad1e-091eb060afc7" />
   <Project Path="SpotipucpDomain/SpotipucpDomain.csproj" Id="fec96e09-f428-435a-b7ed-289845458e89" />
   <Project Path="SpotipucpSolution/SpotipucpSolution.csproj" Id="b2896a3d-3aa3-4981-8738-079f7e41b168" />
+  <Project Path="SpotipucpWA/SpotipucpWA.csproj" Id="94451283-f269-4652-9fa1-f4ca1a4a920a" />
 </Solution>

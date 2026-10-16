@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CBkA6l5iBfo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\SpotipucpWA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

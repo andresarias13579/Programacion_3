@@ -1,0 +1,14 @@
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\bin\Debug\net10.0\SpotipucpDBManager.deps.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\bin\Debug\net10.0\SpotipucpDBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\bin\Debug\net10.0\SpotipucpDBManager.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\SpotipucpDBManager.csproj.AssemblyReference.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\SpotipucpDBManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\SpotipucpDBManager.AssemblyInfoInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\SpotipucpDBManager.AssemblyInfo.cs
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\SpotipucpDBManager.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\SpotipucpDBManager.sourcelink.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\SpotipucpDBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\refint\SpotipucpDBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\SpotipucpDBManager.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\ref\SpotipucpDBManager.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDBManager\obj\Debug\net10.0\Spotipuc.82BA72E0.Up2Date

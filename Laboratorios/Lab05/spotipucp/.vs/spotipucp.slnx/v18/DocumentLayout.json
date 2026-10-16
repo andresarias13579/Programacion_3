@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2896A3D-3AA3-4981-8738-079F7E41B168}|SpotipucpSolution\\SpotipucpSolution.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2896A3D-3AA3-4981-8738-079F7E41B168}|SpotipucpSolution\\SpotipucpSolution.csproj|solutionrelative:spotipucpsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F81C752-4744-400F-AD1E-091EB060AFC7}|SpotipucpDBManager\\SpotipucpDBManager.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpdbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F81C752-4744-400F-AD1E-091EB060AFC7}|SpotipucpDBManager\\SpotipucpDBManager.csproj|solutionrelative:spotipucpdbmanager\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\components\\pages\\prog3.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\components\\pages\\prog3.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\components\\layout\\reconnectmodal.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDDD1576-3D12-49AF-8B85-3F8421787F4E}|SpotipucpDAO\\SpotipucpDAO.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpdao\\clases\\impl\\cancionimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDDD1576-3D12-49AF-8B85-3F8421787F4E}|SpotipucpDAO\\SpotipucpDAO.csproj|solutionrelative:spotipucpdao\\clases\\impl\\cancionimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17167EC-9DCC-4ED7-ABD6-8BBBD9B6415B}|SpotipucpBO\\SpotipucpBO.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpbo\\clases\\bo\\playlistboimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17167EC-9DCC-4ED7-ABD6-8BBBD9B6415B}|SpotipucpBO\\SpotipucpBO.csproj|solutionrelative:spotipucpbo\\clases\\bo\\playlistboimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\laboratorios\\lab05\\spotipucp\\spotipucpwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94451283-F269-4652-9FA1-F4CA1A4A920A}|SpotipucpWA\\SpotipucpWA.csproj|solutionrelative:spotipucpwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +70,190 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Prog3.razor",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Pages\\Prog3.razor",
+              "RelativeDocumentMoniker": "SpotipucpWA\\Components\\Pages\\Prog3.razor",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Pages\\Prog3.razor",
+              "RelativeToolTip": "SpotipucpWA\\Components\\Pages\\Prog3.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T00:58:00.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "SpotipucpWA\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "SpotipucpWA\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T00:55:39.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReconnectModal.razor",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeDocumentMoniker": "SpotipucpWA\\Components\\Layout\\ReconnectModal.razor",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Layout\\ReconnectModal.razor",
+              "RelativeToolTip": "SpotipucpWA\\Components\\Layout\\ReconnectModal.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T00:55:34.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "SpotipucpWA\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Routes.razor",
+              "RelativeToolTip": "SpotipucpWA\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T00:53:59.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\App.razor",
+              "RelativeDocumentMoniker": "SpotipucpWA\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\App.razor",
+              "RelativeToolTip": "SpotipucpWA\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T00:53:58.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "SpotipucpWA\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\_Imports.razor",
+              "RelativeToolTip": "SpotipucpWA\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T00:53:57.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CancionImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpDAO\\Clases\\Impl\\CancionImpl.cs",
+              "RelativeDocumentMoniker": "SpotipucpDAO\\Clases\\Impl\\CancionImpl.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpDAO\\Clases\\Impl\\CancionImpl.cs",
+              "RelativeToolTip": "SpotipucpDAO\\Clases\\Impl\\CancionImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:49:52.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DBManager.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpDBManager\\DBManager.cs",
               "RelativeDocumentMoniker": "SpotipucpDBManager\\DBManager.cs",
               "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpDBManager\\DBManager.cs",
               "RelativeToolTip": "SpotipucpDBManager\\DBManager.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T19:48:25.463Z",
+              "WhenOpened": "2026-10-07T07:10:51.482Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpSolution\\Program.cs",
+              "RelativeDocumentMoniker": "SpotipucpSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpSolution\\Program.cs",
+              "RelativeToolTip": "SpotipucpSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T07:01:40.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "SpotipucpWA\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "SpotipucpWA\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T00:55:41.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "SpotipucpWA\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "SpotipucpWA\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-15T00:57:34.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlaylistBOImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpBO\\Clases\\BO\\PlaylistBOImpl.cs",
+              "RelativeDocumentMoniker": "SpotipucpBO\\Clases\\BO\\PlaylistBOImpl.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpBO\\Clases\\BO\\PlaylistBOImpl.cs",
+              "RelativeToolTip": "SpotipucpBO\\Clases\\BO\\PlaylistBOImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:49:50.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SpotipucpWA\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\appsettings.Development.json",
+              "RelativeToolTip": "SpotipucpWA\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T00:38:35.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\appsettings.json",
+              "RelativeDocumentMoniker": "SpotipucpWA\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\appsettings.json",
+              "RelativeToolTip": "SpotipucpWA\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-15T00:38:31.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Program.cs",
+              "RelativeDocumentMoniker": "SpotipucpWA\\Program.cs",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Laboratorios\\Lab05\\spotipucp\\SpotipucpWA\\Program.cs",
+              "RelativeToolTip": "SpotipucpWA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T00:38:21.424Z"
             }
           ]
         }

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jluis\\source\\repos\\ExamenParcialCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|c:\\users\\jluis\\source\\repos\\examenparcialcsharp\\gestionalumnoswebapp\\components\\pages\\alumnoregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|solutionrelative:gestionalumnoswebapp\\components\\pages\\alumnoregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|c:\\users\\jluis\\source\\repos\\examenparcialcsharp\\gestionalumnoswebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|solutionrelative:gestionalumnoswebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\jluis\\source\\repos\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\jluis\\source\\repos\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T19:34:58.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoRegistro.razor",
+              "DocumentMoniker": "C:\\Users\\jluis\\source\\repos\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
+              "RelativeDocumentMoniker": "GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
+              "ToolTip": "C:\\Users\\jluis\\source\\repos\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
+              "RelativeToolTip": "GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T18:58:56.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

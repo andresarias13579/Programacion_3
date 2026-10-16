@@ -1,0 +1,4 @@
+{
+  "ignoredFiles": ["bin", "obj", ".vs", "packages", ".git"],
+  "ignoredExtensions": [".user", ".dll", ".pdb", ".exe", ".cache", ".suo", ".sln", ".csproj", ".json"]
+}

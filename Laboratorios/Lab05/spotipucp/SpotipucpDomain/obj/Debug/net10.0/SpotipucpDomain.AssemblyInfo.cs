@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpotipucpDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f02f3407b793ec5799913b81a4d078688cda391")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05bd49e31f5c6e1f7897ebca7fd8209b87b9fb70")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpotipucpDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpotipucpDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

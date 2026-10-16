@@ -1,0 +1,13 @@
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\bin\Debug\net10.0\SpotipucpDomain.deps.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\bin\Debug\net10.0\SpotipucpDomain.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\bin\Debug\net10.0\SpotipucpDomain.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\SpotipucpDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\SpotipucpDomain.AssemblyInfoInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\SpotipucpDomain.AssemblyInfo.cs
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\SpotipucpDomain.csproj.CoreCompileInputs.cache
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\SpotipucpDomain.sourcelink.json
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\SpotipucpDomain.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\refint\SpotipucpDomain.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\SpotipucpDomain.pdb
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\ref\SpotipucpDomain.dll
+C:\Users\Andres\OneDrive\Documentos\7mo\Progra3\Laboratorios\Lab05\spotipucp\SpotipucpDomain\obj\Debug\net10.0\Spotipuc.DEFD4642.Up2Date
