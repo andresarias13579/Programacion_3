@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="BO/BO.csproj" Id="ab445a8f-84cd-4721-8dc1-5981b0754800" />
+  <Project Path="DAO/DAO.csproj" Id="080b0ed8-1d16-498a-ab9f-8d57e1e5c50f" />
   <Project Path="DBManager/DBManager.csproj" Id="5e1baeaf-df29-4eb2-a60c-54828c45f465" />
   <Project Path="GestionAlumnosWebApp/GestionAlumnosWebApp.csproj" />
   <Project Path="Modelo/Modelo.csproj" Id="955b36a2-2f1c-4e10-a1ee-674dd9901c2f" />

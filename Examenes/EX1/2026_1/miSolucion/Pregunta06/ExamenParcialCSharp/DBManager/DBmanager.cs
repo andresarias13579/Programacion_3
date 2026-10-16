@@ -1,7 +1,7 @@
 ﻿using System;
 using MySql.Data.MySqlClient;
 
-namespace SpotipucpDBManager
+namespace DBManager
 {
     public class DBManager
     {
