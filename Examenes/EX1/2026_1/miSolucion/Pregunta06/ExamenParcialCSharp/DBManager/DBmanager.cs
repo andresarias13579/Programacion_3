@@ -3,22 +3,22 @@ using MySql.Data.MySqlClient;
 
 namespace DBManager
 {
-    public class DBManager
+    public class DBmanager
     {
         private string? cadenaConexion;
-        private static DBManager? instance;
+        private static DBmanager? instance;
 
         public void Inicializar(string? cadenaConexion)
         {
             this.cadenaConexion = cadenaConexion;
         }
-        public static DBManager Instance
+        public static DBmanager Instance
         {
             get
             {
                 if (instance == null)
                 {
-                    instance = new DBManager();
+                    instance = new DBmanager();
                 }
                 return instance;
             }

@@ -16,7 +16,7 @@ namespace DAO.Clases.Impl
             var lista = new List<Alumno>();
 
             // Connection ya viene abierta, no llamar a Open()
-            using (MySqlConnection con = DBManager.Instance.Connection)
+            using (MySqlConnection con = DBmanager.Instance.Connection)
             using (var cmd = new MySqlCommand("SP_LISTAR_ALUMNOS_X_NOMBRE_APELLIDO", con))
             {
                 cmd.CommandType = CommandType.StoredProcedure;
@@ -44,7 +44,7 @@ namespace DAO.Clases.Impl
 
         public int Insertar(Alumno alumno)
         {
-            using (MySqlConnection con = DBManager.Instance.Connection)
+            using (MySqlConnection con = DBmanager.Instance.Connection)
             using (var cmd = new MySqlCommand("SP_INSERTAR_ALUMNO", con))
             {
                 cmd.CommandType = CommandType.StoredProcedure;

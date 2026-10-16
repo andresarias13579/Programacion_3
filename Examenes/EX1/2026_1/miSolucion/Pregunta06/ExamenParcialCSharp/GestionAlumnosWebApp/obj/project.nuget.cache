@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "YVlCvJT5chw=",
+  "dgSpecHash": "I77Xf4VV2/g=",
   "success": true,
   "projectFilePath": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Andres\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+    "C:\\Users\\Andres\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\google.protobuf\\3.35.0\\google.protobuf.3.35.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.8\\k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\mysql.data\\26.7.0\\mysql.data.26.7.0.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.13\\system.configuration.configurationmanager.10.0.13.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.13\\system.security.cryptography.protecteddata.10.0.13.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\system.security.permissions\\10.0.8\\system.security.permissions.10.0.8.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\system.windows.extensions\\10.0.8\\system.windows.extensions.10.0.8.nupkg.sha512",
+    "C:\\Users\\Andres\\.nuget\\packages\\zstdsharp.port\\0.8.8\\zstdsharp.port.0.8.8.nupkg.sha512"
   ],
   "logs": []
 }
