@@ -1,4 +1,10 @@
 @page "/alumno/registro"
+@rendermode InteractiveServer
+@using System.ComponentModel.DataAnnotations
+@using Modelo.Clases
+@using BO.Clases.BOI
+@inject IAlumnoBO alumnoBO
+@inject NavigationManager Nav
 
 <PageTitle>Registrar Alumno</PageTitle>
 
@@ -6,7 +12,7 @@
 
     <!-- Encabezado -->
     <div class="mb-4">
-        <a href="/TBD" class="btn btn-outline-secondary btn-sm mb-3">
+        <a href="/" class="btn btn-outline-secondary btn-sm mb-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" fill="currentColor" class="bi bi-arrow-left me-1" viewBox="0 0 16 16">
                 <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"/>
             </svg>
@@ -19,18 +25,23 @@
     <!-- Formulario -->
     <div class="card shadow-sm">
         <div class="card-body p-4">
-            <form id="formRegistroAlumno" novalidate>
+            @if (mensajeError != null)
+            {
+                <div class="alert alert-danger">@mensajeError</div>
+            }
+
+            <EditForm Model="formulario" OnValidSubmit="Guardar">
+                <DataAnnotationsValidator />
 
                 <!-- Código -->
                 <div class="mb-3">
                     <label for="codigo" class="form-label fw-semibold">Código</label>
-                    <input type="text"
-                           id="codigo"
-                           name="codigo"
-                           class="form-control"
-                           placeholder="Ej: 20240012"
-                           maxlength="8"
-                           pattern="\d{8}" />
+                    <InputText @bind-Value="formulario.Codigo"
+                               id="codigo"
+                               class="form-control"
+                               placeholder="Ej: 20240012"
+                               maxlength="8" />
+                    <ValidationMessage For="@(() => formulario.Codigo)" class="text-danger small" />
                     <div class="form-text">8 dígitos. Los primeros 4 corresponden al año de ingreso (2020–2025).</div>
                 </div>
 
@@ -38,21 +49,21 @@
                 <div class="row mb-3">
                     <div class="col-md-6">
                         <label for="nombre" class="form-label fw-semibold">Nombre</label>
-                        <input type="text"
-                               id="nombre"
-                               name="nombre"
-                               class="form-control"
-                               placeholder="Ej: María"
-                               maxlength="250" />
+                        <InputText @bind-Value="formulario.Nombre"
+                                   id="nombre"
+                                   class="form-control"
+                                   placeholder="Ej: María"
+                                   maxlength="100" />
+                        <ValidationMessage For="@(() => formulario.Nombre)" class="text-danger small" />
                     </div>
                     <div class="col-md-6">
                         <label for="apellido" class="form-label fw-semibold">Apellido</label>
-                        <input type="text"
-                               id="apellido"
-                               name="apellido"
-                               class="form-control"
-                               placeholder="Ej: González"
-                               maxlength="250" />
+                        <InputText @bind-Value="formulario.Apellido"
+                                   id="apellido"
+                                   class="form-control"
+                                   placeholder="Ej: González"
+                                   maxlength="100" />
+                        <ValidationMessage For="@(() => formulario.Apellido)" class="text-danger small" />
                     </div>
                 </div>
 
@@ -60,32 +71,28 @@
                 <div class="mb-3">
                     <label for="correo" class="form-label fw-semibold">Correo electrónico</label>
                     <div class="input-group">
-                        <input type="text"
-                               id="correoUsuario"
-                               name="correoUsuario"
-                               class="form-control"
-                               placeholder="nombre.apellido"
-                               maxlength="100" />
+                        <InputText @bind-Value="formulario.CorreoUsuario"
+                                   id="correoUsuario"
+                                   class="form-control"
+                                   placeholder="nombre.apellido"
+                                   maxlength="100" />
                         <span class="input-group-text bg-light text-muted">pucp.pe</span>
                     </div>
+                    <ValidationMessage For="@(() => formulario.CorreoUsuario)" class="text-danger small" />
                 </div>
 
                 <!-- Activo -->
                 <div class="mb-4">
                     <label class="form-label fw-semibold d-block">Estado</label>
                     <div class="form-check form-switch">
-                        <input class="form-check-input"
-                               type="checkbox"
-                               id="activo"
-                               name="activo"
-                               checked />
+                        <InputCheckbox @bind-Value="formulario.Activo" id="activo" class="form-check-input" />
                         <label class="form-check-label" for="activo">Alumno activo</label>
                     </div>
                 </div>
 
                 <!-- Botones -->
                 <div class="d-flex gap-2 justify-content-end">
-                    <a href="/TBD" class="btn btn-outline-secondary">Cancelar</a>
+                    <a href="/" class="btn btn-outline-secondary">Cancelar</a>
                     <button type="submit" class="btn btn-primary">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-floppy me-1" viewBox="0 0 16 16">
                             <path d="M11 2H9v3h2z"/>
@@ -95,8 +102,65 @@
                     </button>
                 </div>
 
-            </form>
+            </EditForm>
         </div>
     </div>
 
 </div>
+
+@code {
+    private FormularioAlumno formulario = new();
+    private string? mensajeError;
+
+    // Modelo del formulario: aquí viven las reglas de validación
+    public class FormularioAlumno
+    {
+        [Required(ErrorMessage = "El código es obligatorio.")]
+        [RegularExpression(@"^202[0-5]\d{4}$",
+            ErrorMessage = "Debe tener 8 dígitos y empezar con un año entre 2020 y 2025.")]
+        public string Codigo { get; set; } = "";
+
+        [Required(ErrorMessage = "El nombre es obligatorio.")]
+        [StringLength(100, ErrorMessage = "El nombre es demasiado largo.")]
+        public string Nombre { get; set; } = "";
+
+        [Required(ErrorMessage = "El apellido es obligatorio.")]
+        [StringLength(100, ErrorMessage = "El apellido es demasiado largo.")]
+        public string Apellido { get; set; } = "";
+
+        [Required(ErrorMessage = "El correo es obligatorio.")]
+        [RegularExpression(@"^[A-Za-z0-9._-]+$",
+            ErrorMessage = "Solo letras, números, punto, guion y guion bajo (sin @).")]
+        public string CorreoUsuario { get; set; } = "";
+
+        public bool Activo { get; set; } = true;
+    }
+
+    // Solo se ejecuta si TODAS las validaciones pasan
+    private void Guardar()
+    {
+        mensajeError = null;
+        try
+        {
+            var alumno = new Alumno
+            {
+                Codigo = formulario.Codigo,
+                Nombre = formulario.Nombre.Trim(),
+                Apellidos = formulario.Apellido.Trim(),
+                Correo = formulario.CorreoUsuario.Trim() + "@pucp.pe",
+                Estado = formulario.Activo ? 'A' : 'I'
+            };
+
+            alumnoBO.Registrar(alumno);
+            Nav.NavigateTo("/");   // vuelve al listado
+        }
+        catch (ArgumentException ex)
+        {
+            mensajeError = ex.Message;   // regla de negocio rechazada por el BO
+        }
+        catch (Exception)
+        {
+            mensajeError = "No se pudo guardar el alumno. Intente nuevamente.";
+        }
+    }
+}

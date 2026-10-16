@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\gestionalumnoswebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|solutionrelative:gestionalumnoswebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\gestionalumnoswebapp\\components\\pages\\alumnoregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|solutionrelative:gestionalumnoswebapp\\components\\pages\\alumnoregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\gestionalumnoswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|solutionrelative:gestionalumnoswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\gestionalumnoswebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|solutionrelative:gestionalumnoswebapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\gestionalumnoswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{955B36A2-2F1C-4E10-A1EE-674DD9901C2F}|Modelo\\Modelo.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\modelo\\clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{955B36A2-2F1C-4E10-A1EE-674DD9901C2F}|Modelo\\Modelo.csproj|solutionrelative:modelo\\clases\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|c:\\users\\andres\\onedrive\\documentos\\7mo\\progra3\\examenes\\ex1\\2026_1\\misolucion\\pregunta06\\examenparcialcsharp\\gestionalumnoswebapp\\components\\pages\\alumnoregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{91F71FEE-CC44-C97B-991D-92EFF90782D4}|GestionAlumnosWebApp\\GestionAlumnosWebApp.csproj|solutionrelative:gestionalumnoswebapp\\components\\pages\\alumnoregistro.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,25 +64,14 @@
               "RelativeDocumentMoniker": "GestionAlumnosWebApp\\Program.cs",
               "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Program.cs",
               "RelativeToolTip": "GestionAlumnosWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T06:02:49.805Z"
+              "WhenOpened": "2026-10-16T06:02:49.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\appsettings.json",
-              "RelativeDocumentMoniker": "GestionAlumnosWebApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\appsettings.json",
-              "RelativeToolTip": "GestionAlumnosWebApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-16T06:01:06.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AlumnoBOImpl.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\BO\\Clases\\BO\\AlumnoBOImpl.cs",
               "RelativeDocumentMoniker": "BO\\Clases\\BO\\AlumnoBOImpl.cs",
@@ -94,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IAlumnoBO.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\BO\\Clases\\BOI\\IAlumnoBO.cs",
               "RelativeDocumentMoniker": "BO\\Clases\\BOI\\IAlumnoBO.cs",
@@ -106,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AlumnoDAOImpl.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\DAO\\Clases\\Impl\\AlumnoDAOImpl.cs",
               "RelativeDocumentMoniker": "DAO\\Clases\\Impl\\AlumnoDAOImpl.cs",
@@ -118,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\DBManager\\appsettings.json",
               "RelativeDocumentMoniker": "DBManager\\appsettings.json",
@@ -130,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DBmanager.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\DBManager\\DBmanager.cs",
               "RelativeDocumentMoniker": "DBManager\\DBmanager.cs",
@@ -142,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "GestionAlumnosWebApp\\Components\\Pages\\Home.razor",
@@ -155,7 +144,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "AlumnoRegistro.razor",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
+              "RelativeDocumentMoniker": "GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
+              "RelativeToolTip": "GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-16T18:58:56.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionAlumnosWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\appsettings.json",
+              "RelativeToolTip": "GestionAlumnosWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-16T06:01:06.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AlumnoDAO.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\DAO\\Clases\\DAO\\AlumnoDAO.cs",
               "RelativeDocumentMoniker": "DAO\\Clases\\DAO\\AlumnoDAO.cs",
@@ -167,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Alumno.cs",
               "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\Modelo\\Clases\\Alumno.cs",
               "RelativeDocumentMoniker": "Modelo\\Clases\\Alumno.cs",
@@ -176,18 +190,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T05:18:13.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AlumnoRegistro.razor",
-              "DocumentMoniker": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
-              "RelativeDocumentMoniker": "GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
-              "ToolTip": "C:\\Users\\Andres\\OneDrive\\Documentos\\7mo\\Progra3\\Examenes\\EX1\\2026_1\\miSolucion\\Pregunta06\\ExamenParcialCSharp\\GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
-              "RelativeToolTip": "GestionAlumnosWebApp\\Components\\Pages\\AlumnoRegistro.razor",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-16T18:58:56.296Z"
             }
           ]
         }
